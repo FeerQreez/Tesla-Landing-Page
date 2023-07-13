@@ -1,8 +1,8 @@
-[url=https://postimg.cc/7fRh3dz7][img]https://i.postimg.cc/7fRh3dz7/Screenshot-95.png[/img][/url]
+[![Screenshot-96.png](https://i.postimg.cc/R0qnWQtK/Screenshot-96.png)](https://postimg.cc/f3nbFdBR)
 
-[url=https://postimg.cc/f3nbFdBR][img]https://i.postimg.cc/f3nbFdBR/Screenshot-96.png[/img][/url]
+[![Screenshot-95.png](https://i.postimg.cc/Cxh8gVLv/Screenshot-95.png)](https://postimg.cc/7fRh3dz7)
 
-
+[![Screenshot-98.png](https://i.postimg.cc/13QkRJL7/Screenshot-98.png)](https://postimg.cc/svT6w9f5)
 
 # Astro Starter Kit: Basics
 
